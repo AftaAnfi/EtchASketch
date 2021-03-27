@@ -1,0 +1,13 @@
+C:\Users\aftanom\Documents\GitHubRepos\EtchASketch\EtchASketch\EtchASketchProject\bin\Debug\EtchASketchProject.exe.config
+C:\Users\aftanom\Documents\GitHubRepos\EtchASketch\EtchASketch\EtchASketchProject\bin\Debug\EtchASketchProject.exe
+C:\Users\aftanom\Documents\GitHubRepos\EtchASketch\EtchASketch\EtchASketchProject\bin\Debug\EtchASketchProject.pdb
+C:\Users\aftanom\Documents\GitHubRepos\EtchASketch\EtchASketch\EtchASketchProject\bin\Debug\EtchASketchProject.xml
+C:\Users\aftanom\Documents\GitHubRepos\EtchASketch\EtchASketch\EtchASketchProject\obj\Debug\EtchASketchProject.vbprojAssemblyReference.cache
+C:\Users\aftanom\Documents\GitHubRepos\EtchASketch\EtchASketch\EtchASketchProject\obj\Debug\EtchASketchProject.Resources.resources
+C:\Users\aftanom\Documents\GitHubRepos\EtchASketch\EtchASketch\EtchASketchProject\obj\Debug\EtchASketchProject.vbproj.GenerateResource.cache
+C:\Users\aftanom\Documents\GitHubRepos\EtchASketch\EtchASketch\EtchASketchProject\obj\Debug\EtchASketchProject.vbproj.CoreCompileInputs.cache
+C:\Users\aftanom\Documents\GitHubRepos\EtchASketch\EtchASketch\EtchASketchProject\obj\Debug\EtchASketchProject.exe
+C:\Users\aftanom\Documents\GitHubRepos\EtchASketch\EtchASketch\EtchASketchProject\obj\Debug\EtchASketchProject.xml
+C:\Users\aftanom\Documents\GitHubRepos\EtchASketch\EtchASketch\EtchASketchProject\obj\Debug\EtchASketchProject.pdb
+C:\Users\aftanom\Documents\GitHubRepos\EtchASketch\EtchASketch\EtchASketchProject\obj\Debug\EtchASketchProject.EtchASketchForm.resources
+C:\Users\aftanom\Documents\GitHubRepos\EtchASketch\EtchASketch\EtchASketchProject\obj\Debug\EtchASketchProject.AboutForm.resources
